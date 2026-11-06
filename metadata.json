@@ -1,0 +1,6 @@
+{
+  "name": "Учебный комплект",
+  "description": "Веб-приложение для подготовки студентов на основе учебных материалов: краткий конспект, тест для самопроверки и карточки с подтверждающими цитатами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
